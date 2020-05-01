@@ -10,9 +10,9 @@ using System.Windows.Forms;
 using IronPython.Hosting;
 using Microsoft.Scripting.Hosting;
 using AForge.Video;
-
-
-
+using System.Windows.Forms.Integration;
+using System.IO;
+using System.Diagnostics;
 namespace image
 {
     public partial class main : Form
@@ -34,6 +34,7 @@ namespace image
         private void btnClose_Click(object sender, EventArgs e)
         {
             this.Close();
+            Application.Exit();
             //System.Windows.Forms.Application.Exit();
         }
 
@@ -43,8 +44,16 @@ namespace image
             this.plPhotos.Visible = false;
             if (ofd.ShowDialog() ==DialogResult.OK)
             {
-                laodedimage_location = ofd.SafeFileName;
+                laodedimage_location = ofd.FileName;
                 Globals.haveInput = true;
+                doPython();
+                WpfUserControl.UserControl1 uc = new WpfUserControl.UserControl1("model.stl");
+                // this.Controls.Clear();
+                ElementHost host = new ElementHost();
+                host.Dock = DockStyle.Fill;
+                host.Child = uc;
+                //host.Location = new Point(0,0);
+                this.Controls.Add(host);
 
             }
         }
@@ -96,17 +105,44 @@ namespace image
             this.plPhotos.Visible = false;
             if (ofd.ShowDialog() == DialogResult.OK)
             {
-                fileLoaded_location = ofd.SafeFileName;
+                fileLoaded_location = ofd.FileName;
+                MessageBox.Show(fileLoaded_location);
                 Globals.haveInput = true;
+                
+              
+                
+                WpfUserControl.UserControl1 uc = new WpfUserControl.UserControl1(fileLoaded_location);
+               // this.Controls.Clear();
+                ElementHost host = new ElementHost();
+                host.Dock = DockStyle.Fill;
+                host.Child = uc;
+                //host.Location = new Point(0,0);
+                this.Controls.Add(host);
+                
+
+                
+                
             }
         }
 
 
         private static void doPython()
         {
-            
-            ScriptEngine engine = Python.CreateEngine();
-            engine.ExecuteFile(@"C:\Users\Baraa\Desktop\mohamed\3D-Apartment-master\hello.py");
+            Process cmd = new Process();
+            cmd.StartInfo.FileName = "cmd.exe";
+            cmd.StartInfo.RedirectStandardInput = true;
+            cmd.StartInfo.RedirectStandardOutput = true;
+            cmd.StartInfo.CreateNoWindow = true;
+            cmd.StartInfo.UseShellExecute = false;
+            cmd.Start();
+
+            cmd.StandardInput.WriteLine("python main.py");
+            cmd.StandardInput.Flush();
+            cmd.StandardInput.Close();
+            cmd.WaitForExit();
+
+
+
         }
 
         private void panel4_Paint(object sender, PaintEventArgs e)
@@ -141,7 +177,8 @@ namespace image
 
         }
 
-        private void panel1_Paint(object sender, PaintEventArgs e)
+     
+        private void main_Load(object sender, EventArgs e)
         {
 
         }

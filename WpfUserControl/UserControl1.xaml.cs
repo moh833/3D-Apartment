@@ -1,20 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 using System.Windows.Media.Media3D;
 using HelixToolkit.Wpf;
-
 
 namespace WpfUserControl
 {
@@ -30,6 +19,14 @@ namespace WpfUserControl
             InitializeComponent();
             ModelVisual3D device3D = new ModelVisual3D();
             device3D.Content = Display3d(MODEL_PATH);
+            // Add to view port
+            viewPort3d.Children.Add(device3D);
+        }
+        public UserControl1(string path)
+        {
+            InitializeComponent();
+            ModelVisual3D device3D = new ModelVisual3D();
+            device3D.Content = Display3d(path);
             // Add to view port
             viewPort3d.Children.Add(device3D);
         }

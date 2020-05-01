@@ -28,6 +28,7 @@ namespace image
             frm.Show();
             Globals.haveInput = false;
             this.Close();
+           
         }
     }
 }
