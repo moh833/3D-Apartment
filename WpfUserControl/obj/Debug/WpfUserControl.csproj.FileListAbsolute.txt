@@ -32,3 +32,39 @@ C:\Users\nader\githubproject\3D-Apartment\WpfUserControl\obj\Debug\WpfUserContro
 C:\Users\nader\githubproject\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.csproj.GenerateResource.Cache
 C:\Users\nader\githubproject\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.dll
 C:\Users\nader\githubproject\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.pdb
+D:\work\C# test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.dll
+D:\work\C# test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.pdb
+D:\work\C# test\3D-Apartment\WpfUserControl\bin\Debug\WpfUserControl.dll
+D:\work\C# test\3D-Apartment\WpfUserControl\bin\Debug\WpfUserControl.pdb
+D:\work\C# test\3D-Apartment\WpfUserControl\bin\Debug\HelixToolkit.dll
+D:\work\C# test\3D-Apartment\WpfUserControl\bin\Debug\HelixToolkit.Wpf.dll
+D:\work\C# test\3D-Apartment\WpfUserControl\bin\Debug\HelixToolkit.xml
+D:\work\C# test\3D-Apartment\WpfUserControl\bin\Debug\HelixToolkit.Wpf.xml
+D:\work\C# test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.csprojAssemblyReference.cache
+D:\work\C# test\3D-Apartment\WpfUserControl\obj\Debug\UserControl1.g.cs
+D:\work\C# test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl_MarkupCompile.cache
+D:\work\C# test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl_MarkupCompile.lref
+D:\work\C# test\3D-Apartment\WpfUserControl\obj\Debug\UserControl1.baml
+D:\work\C# test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.g.resources
+D:\work\C# test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.Properties.Resources.resources
+D:\work\C# test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.csproj.GenerateResource.cache
+D:\work\C# test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.csproj.CoreCompileInputs.cache
+D:\work\C# test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.csproj.CopyComplete
+D:\work\C#_test\3D-Apartment\WpfUserControl\bin\Debug\WpfUserControl.dll
+D:\work\C#_test\3D-Apartment\WpfUserControl\bin\Debug\WpfUserControl.pdb
+D:\work\C#_test\3D-Apartment\WpfUserControl\bin\Debug\HelixToolkit.dll
+D:\work\C#_test\3D-Apartment\WpfUserControl\bin\Debug\HelixToolkit.Wpf.dll
+D:\work\C#_test\3D-Apartment\WpfUserControl\bin\Debug\HelixToolkit.xml
+D:\work\C#_test\3D-Apartment\WpfUserControl\bin\Debug\HelixToolkit.Wpf.xml
+D:\work\C#_test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.csprojAssemblyReference.cache
+D:\work\C#_test\3D-Apartment\WpfUserControl\obj\Debug\UserControl1.g.cs
+D:\work\C#_test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl_MarkupCompile.cache
+D:\work\C#_test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl_MarkupCompile.lref
+D:\work\C#_test\3D-Apartment\WpfUserControl\obj\Debug\UserControl1.baml
+D:\work\C#_test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.g.resources
+D:\work\C#_test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.Properties.Resources.resources
+D:\work\C#_test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.csproj.GenerateResource.cache
+D:\work\C#_test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.csproj.CoreCompileInputs.cache
+D:\work\C#_test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.csproj.CopyComplete
+D:\work\C#_test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.dll
+D:\work\C#_test\3D-Apartment\WpfUserControl\obj\Debug\WpfUserControl.pdb

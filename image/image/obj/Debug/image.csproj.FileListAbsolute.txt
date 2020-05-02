@@ -215,3 +215,7 @@ C:\Users\nader\githubproject\3D-Apartment\image\image\obj\Debug\image_MarkupComp
 C:\Users\nader\githubproject\3D-Apartment\image\image\obj\Debug\image_MarkupCompile.lref
 C:\Users\nader\githubproject\3D-Apartment\image\image\obj\Debug\UserControl1.baml
 C:\Users\nader\githubproject\3D-Apartment\image\image\obj\Debug\image.g.resources
+D:\work\C# test\3D-Apartment\image\image\obj\Debug\image.csprojAssemblyReference.cache
+D:\work\C# test\3D-Apartment\image\image\obj\Debug\image_MarkupCompile.cache
+D:\work\C# test\3D-Apartment\image\image\obj\Debug\image.exe
+D:\work\C# test\3D-Apartment\image\image\obj\Debug\image.pdb

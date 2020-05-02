@@ -17,6 +17,12 @@ namespace image
             InitializeComponent();
         }
 
+        public Form2(string path)
+        {
+            InitializeComponent();
+            this.userControl11.LoadModel(path);
+        }
+
         private void Form2_Load(object sender, EventArgs e)
         {
 

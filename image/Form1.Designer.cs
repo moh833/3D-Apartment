@@ -62,7 +62,7 @@
             this.panel2.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(233, 749);
+            this.panel2.Size = new System.Drawing.Size(233, 838);
             this.panel2.TabIndex = 1;
             // 
             // btnOpen
@@ -119,7 +119,7 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(70, 72);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(147, 31);
+            this.label1.Size = new System.Drawing.Size(115, 25);
             this.label1.TabIndex = 8;
             this.label1.Text = "Dashboard";
             // 
@@ -139,7 +139,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(233, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1137, 24);
+            this.panel1.Size = new System.Drawing.Size(1297, 24);
             this.panel1.TabIndex = 2;
             // 
             // btnClose
@@ -149,7 +149,7 @@
             this.btnClose.FlatAppearance.BorderSize = 0;
             this.btnClose.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnClose.Image = ((System.Drawing.Image)(resources.GetObject("btnClose.Image")));
-            this.btnClose.Location = new System.Drawing.Point(1096, 0);
+            this.btnClose.Location = new System.Drawing.Point(1256, 0);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(41, 24);
             this.btnClose.TabIndex = 0;
@@ -204,11 +204,12 @@
             // 
             // btnRun
             // 
+            this.btnRun.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.btnRun.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(101)))), ((int)(((byte)(193)))));
             this.btnRun.FlatAppearance.BorderSize = 0;
             this.btnRun.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnRun.Font = new System.Drawing.Font("Georgia", 14.25F);
-            this.btnRun.Location = new System.Drawing.Point(1161, 666);
+            this.btnRun.Location = new System.Drawing.Point(1292, 731);
             this.btnRun.Name = "btnRun";
             this.btnRun.Size = new System.Drawing.Size(166, 58);
             this.btnRun.TabIndex = 4;
@@ -243,7 +244,7 @@
             this.label2.Font = new System.Drawing.Font("Georgia", 14.25F);
             this.label2.Location = new System.Drawing.Point(100, 43);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(448, 29);
+            this.label2.Size = new System.Drawing.Size(358, 23);
             this.label2.TabIndex = 0;
             this.label2.Text = "Please choose an image first to convert... ";
             // 
@@ -251,7 +252,7 @@
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(235)))), ((int)(((byte)(243)))));
-            this.ClientSize = new System.Drawing.Size(1370, 749);
+            this.ClientSize = new System.Drawing.Size(1530, 838);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.btnRun);
             this.Controls.Add(this.plPhotos);

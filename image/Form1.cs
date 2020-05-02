@@ -18,7 +18,8 @@ namespace image
     public partial class main : Form
     {
         private bool isPushed = true;
-       
+        string project_path = Path.GetFullPath(Path.Combine(System.AppDomain.CurrentDomain.BaseDirectory, "../../../"));
+
         string laodedimage_location;
         string fileLoaded_location;
         public main()
@@ -40,20 +41,29 @@ namespace image
 
         private void btnGallery_Click(object sender, EventArgs e)
         {
-            ofd.Filter="GPD|*.png";
+            // ofd.Filter="GPD|*.png";
+            ofd.Filter = "Image Files|*.jpg;*.jpeg;*.png;";
             this.plPhotos.Visible = false;
             if (ofd.ShowDialog() ==DialogResult.OK)
             {
                 laodedimage_location = ofd.FileName;
+
+                Bitmap original_image = new Bitmap(laodedimage_location);
+                original_image.Save(project_path + "scripts\\images\\original_layout" + Path.GetExtension(laodedimage_location));
                 Globals.haveInput = true;
+
                 doPython();
-                WpfUserControl.UserControl1 uc = new WpfUserControl.UserControl1("model.stl");
+
+                System.IO.File.Copy(project_path + "scripts\\model\\model.stl", project_path + "models\\" + Path.GetFileNameWithoutExtension(laodedimage_location) + ".stl", true);
+
+                /*
+                WpfUserControl.UserControl1 uc = new WpfUserControl.UserControl1();
                 // this.Controls.Clear();
                 ElementHost host = new ElementHost();
                 host.Dock = DockStyle.Fill;
                 host.Child = uc;
                 //host.Location = new Point(0,0);
-                this.Controls.Add(host);
+                this.Controls.Add(host);*/
 
             }
         }
@@ -101,32 +111,34 @@ namespace image
         private void btnOpen_Click(object sender, EventArgs e)
         {
 
-         //   ofd.Filter = "GPD|*.2s2li mo";
+            //   ofd.Filter = "GPD|*.2s2li mo";
+            ofd.Filter = "GPD|*.stl";
             this.plPhotos.Visible = false;
             if (ofd.ShowDialog() == DialogResult.OK)
             {
                 fileLoaded_location = ofd.FileName;
-                MessageBox.Show(fileLoaded_location);
                 Globals.haveInput = true;
-                
-              
-                
-                WpfUserControl.UserControl1 uc = new WpfUserControl.UserControl1(fileLoaded_location);
-               // this.Controls.Clear();
-                ElementHost host = new ElementHost();
-                host.Dock = DockStyle.Fill;
-                host.Child = uc;
-                //host.Location = new Point(0,0);
-                this.Controls.Add(host);
-                
+                Form2 frm = new Form2(fileLoaded_location);
+                this.Hide();
+                frm.Show();
 
-                
-                
+
+                /*  WpfUserControl.UserControl1 uc = new WpfUserControl.UserControl1(fileLoaded_location);
+                 // this.Controls.Clear();
+                  ElementHost host = new ElementHost();
+                  host.Dock = DockStyle.Fill;
+                  host.Child = uc;
+                  //host.Location = new Point(0,0);
+                  this.Controls.Add(host);*/
+
+
+
+
             }
         }
 
-
-        private static void doPython()
+        // private static void doPython()
+        private void doPython()
         {
             Process cmd = new Process();
             cmd.StartInfo.FileName = "cmd.exe";
@@ -136,7 +148,7 @@ namespace image
             cmd.StartInfo.UseShellExecute = false;
             cmd.Start();
 
-            cmd.StandardInput.WriteLine("python main.py");
+            cmd.StandardInput.WriteLine("python " + project_path +  "scripts\\main.py");
             cmd.StandardInput.Flush();
             cmd.StandardInput.Close();
             cmd.WaitForExit();

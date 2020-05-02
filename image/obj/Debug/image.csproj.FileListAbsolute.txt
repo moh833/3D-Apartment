@@ -279,3 +279,133 @@ C:\Users\nader\githubproject\3D-Apartment\image\obj\Debug\image.Properties.Resou
 C:\Users\nader\githubproject\3D-Apartment\image\obj\Debug\image.csproj.GenerateResource.Cache
 C:\Users\nader\githubproject\3D-Apartment\image\obj\Debug\image.exe
 C:\Users\nader\githubproject\3D-Apartment\image\obj\Debug\image.pdb
+D:\work\C# test\3D-Apartment\image\obj\Debug\image.exe
+D:\work\C# test\3D-Apartment\image\obj\Debug\image.pdb
+D:\work\C# test\3D-Apartment\image\bin\Debug\image.exe.config
+D:\work\C# test\3D-Apartment\image\bin\Debug\image.exe
+D:\work\C# test\3D-Apartment\image\bin\Debug\image.pdb
+D:\work\C# test\3D-Apartment\image\bin\Debug\HelixToolkit.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\HelixToolkit.Wpf.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\IronPython.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\IronPython.Modules.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\IronPython.SQLite.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\IronPython.Wpf.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\Microsoft.Dynamic.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\Microsoft.Scripting.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\WpfUserControl.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\WpfUserControl.pdb
+D:\work\C# test\3D-Apartment\image\bin\Debug\DevExpress.Data.v19.2.xml
+D:\work\C# test\3D-Apartment\image\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\work\C# test\3D-Apartment\image\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\work\C# test\3D-Apartment\image\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\work\C# test\3D-Apartment\image\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\work\C# test\3D-Apartment\image\bin\Debug\HelixToolkit.xml
+D:\work\C# test\3D-Apartment\image\bin\Debug\HelixToolkit.Wpf.xml
+D:\work\C# test\3D-Apartment\image\bin\Debug\IronPython.xml
+D:\work\C# test\3D-Apartment\image\bin\Debug\IronPython.Modules.xml
+D:\work\C# test\3D-Apartment\image\bin\Debug\IronPython.SQLite.xml
+D:\work\C# test\3D-Apartment\image\bin\Debug\IronPython.Wpf.xml
+D:\work\C# test\3D-Apartment\image\bin\Debug\Microsoft.Dynamic.xml
+D:\work\C# test\3D-Apartment\image\bin\Debug\Microsoft.Scripting.xml
+D:\work\C# test\3D-Apartment\image\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\work\C# test\3D-Apartment\image\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\work\C# test\3D-Apartment\image\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\work\C# test\3D-Apartment\image\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\work\C# test\3D-Apartment\image\obj\Debug\image.csprojAssemblyReference.cache
+D:\work\C# test\3D-Apartment\image\obj\Debug\image.cameraForm.resources
+D:\work\C# test\3D-Apartment\image\obj\Debug\image.capturePhoto.resources
+D:\work\C# test\3D-Apartment\image\obj\Debug\image.main.resources
+D:\work\C# test\3D-Apartment\image\obj\Debug\image.Form2.resources
+D:\work\C# test\3D-Apartment\image\obj\Debug\image.Properties.Resources.resources
+D:\work\C# test\3D-Apartment\image\obj\Debug\image.csproj.GenerateResource.cache
+D:\work\C# test\3D-Apartment\image\obj\Debug\image.csproj.CoreCompileInputs.cache
+D:\work\C# test\3D-Apartment\image\obj\Debug\image.csproj.CopyComplete
+D:\work\C#_test\3D-Apartment\image\bin\Debug\image.exe.config
+D:\work\C#_test\3D-Apartment\image\bin\Debug\image.exe
+D:\work\C#_test\3D-Apartment\image\bin\Debug\image.pdb
+D:\work\C#_test\3D-Apartment\image\bin\Debug\HelixToolkit.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\HelixToolkit.Wpf.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\IronPython.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\IronPython.Modules.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\IronPython.SQLite.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\IronPython.Wpf.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\Microsoft.Dynamic.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\Microsoft.Scripting.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\WpfUserControl.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\WpfUserControl.pdb
+D:\work\C#_test\3D-Apartment\image\bin\Debug\DevExpress.Data.v19.2.xml
+D:\work\C#_test\3D-Apartment\image\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\work\C#_test\3D-Apartment\image\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\work\C#_test\3D-Apartment\image\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\work\C#_test\3D-Apartment\image\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\work\C#_test\3D-Apartment\image\bin\Debug\HelixToolkit.xml
+D:\work\C#_test\3D-Apartment\image\bin\Debug\HelixToolkit.Wpf.xml
+D:\work\C#_test\3D-Apartment\image\bin\Debug\IronPython.xml
+D:\work\C#_test\3D-Apartment\image\bin\Debug\IronPython.Modules.xml
+D:\work\C#_test\3D-Apartment\image\bin\Debug\IronPython.SQLite.xml
+D:\work\C#_test\3D-Apartment\image\bin\Debug\IronPython.Wpf.xml
+D:\work\C#_test\3D-Apartment\image\bin\Debug\Microsoft.Dynamic.xml
+D:\work\C#_test\3D-Apartment\image\bin\Debug\Microsoft.Scripting.xml
+D:\work\C#_test\3D-Apartment\image\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\work\C#_test\3D-Apartment\image\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\work\C#_test\3D-Apartment\image\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\work\C#_test\3D-Apartment\image\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\work\C#_test\3D-Apartment\image\obj\Debug\image.csprojAssemblyReference.cache
+D:\work\C#_test\3D-Apartment\image\obj\Debug\image.cameraForm.resources
+D:\work\C#_test\3D-Apartment\image\obj\Debug\image.capturePhoto.resources
+D:\work\C#_test\3D-Apartment\image\obj\Debug\image.main.resources
+D:\work\C#_test\3D-Apartment\image\obj\Debug\image.Form2.resources
+D:\work\C#_test\3D-Apartment\image\obj\Debug\image.Properties.Resources.resources
+D:\work\C#_test\3D-Apartment\image\obj\Debug\image.csproj.GenerateResource.cache
+D:\work\C#_test\3D-Apartment\image\obj\Debug\image.csproj.CoreCompileInputs.cache
+D:\work\C#_test\3D-Apartment\image\obj\Debug\image.csproj.CopyComplete
+D:\work\C#_test\3D-Apartment\image\obj\Debug\image.exe
+D:\work\C#_test\3D-Apartment\image\obj\Debug\image.pdb
